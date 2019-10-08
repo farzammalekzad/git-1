@@ -1,0 +1,28 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is test",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farzammalekzad/git-1.git"
+  },
+  "keywords": [
+    "UnrigestereD1365"
+  ],
+  "author": "Farzam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farzammalekzad/git-1/issues"
+  },
+  "homepage": "https://github.com/farzammalekzad/git-1#readme",
+  "devDependencies": {
+    "liteserver": "^0.3.0"
+  }
+}
